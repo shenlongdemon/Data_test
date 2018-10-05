@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5ac797c76983f40ddd5affc9"},"id":"fa97b51c-4b10-41be-b2f3-c313360391cd","value":"Watch","icon":"watch"}
+{"_id":{"$oid":"5ac797ea6983f40ddd5affca"},"id":"3229029d-5197-4a1c-aeae-c37aedab82cd","value":"Medicine","icon":"favorite"}
+{"_id":{"$oid":"5b15d5e00feec310e0b30df6"},"id":"bf2837f9-8b08-4686-9062-b9a0f5c25130","value":"Handbag","icon":"Handbag"}
+{"_id":{"$oid":"5b3b04951c148016cc80d385"},"id":"bf2837f9-8b08-4686-9062-b9a0f5c25132","value":"Airplane","icon":"airplane"}
